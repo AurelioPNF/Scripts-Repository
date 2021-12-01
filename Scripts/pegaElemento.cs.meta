@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4a2e34f4cbc5e1e4bb4204303522bf86
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - objetoSegurado: {instanceID: 0}
+  - somDaAgua: {fileID: 8300000, guid: b958e3086ae88fe4faa8be6d6bcf3db1, type: 3}
+  - objetoInteragivel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
